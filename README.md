@@ -8,11 +8,11 @@
 
 | Menu | Combat |
 |------|--------|
-| ![Menu](screenshots/Screenshot2026-04-17230834) | ![Combat](screenshots/combat.png) |
+| ![Menu](Screenshot 2026-04-17 230834.png) | ![Combat](Screenshot 2026-04-17 230848 - Copy.png) |
 
 | Shop | Arena |
 |------|-------|
-| ![Shop](screenshots/shop.png) | ![Arena](screenshots/arena.png) |
+| ![Shop](Screenshot 2026-04-17 230859.png) | ![Arena](Screenshot 2026-04-17 230925.png) |
 
 ---
 
